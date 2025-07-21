@@ -90,6 +90,15 @@ VITE_REVERB_SCHEME=http
 ## Contributing
 Contributions are welcome! If you have ideas for improvements or new features, feel free to fork the repository, make changes, and submit a pull request.
 
-## 📜 License
+## 📄 License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+This project is licensed under the [MIT License](LICENSE).  
+You are free to use, modify, and distribute this software in compliance with the license terms.
+
+## ©️ Copyright
+
+© 2025 Darshan KC 
+All rights reserved.  
+ChatVerse is an open-source project released under the MIT license.
